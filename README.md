@@ -1,5 +1,4 @@
 # fakevsreal-face-detection
-# Fake vs Real Image Classification
 
 A deep learning model that classifies human face images as real or fake using a Convolutional Neural Network (CNN).
 
